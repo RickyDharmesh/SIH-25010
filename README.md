@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:22/09/2025
+## Register Number:25016025
+## Name:RICKY DHARMESH.P
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,13 +41,13 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
-
+<h3>Transforming Smallholder Farming Through Digital Innovation</h3>
+<p>To address the challenges faced by small and marginal farmers, we propose “Kisan Saathi”, a multilingual, AI-powered mobile and voice-based advisory platform that integrates scientific knowledge, financial services, and market access into a single ecosystem. This solution will provide real-time, location-specific crop and soil recommendations, weather alerts, and pest/disease detection through image or voice inputs. By offering voice-first interaction in local languages and offline functionality, even low-literate farmers can easily access timely, reliable advice. In addition, Kisan Saathi will connect farmers with microloans, crop insurance, subsidies, and market price information, reducing dependency on intermediaries and enabling better decision-making. This holistic approach aims to improve productivity, reduce costs, enhance sustainability, and uplift the livelihoods of small and marginal farmers.</p>
 ## Technical Approach
-<h3>Remove These Lines</h3>
+<h3>Precision Farming Intelligence</h3>
+<p>
+  The proposed “Kisan Saathi” platform will be developed as a modular, scalable cloud-based system with both mobile and voice interfaces to ensure accessibility for all farmers. Real-time data on soil, weather, and market conditions will be collected from government databases, satellite feeds, IoT sensors, and farmer inputs, and integrated with agriculture APIs for accurate crop and pest information. An AI and analytics engine will power the core functionalities, using machine learning to recommend crop selection, fertilizer usage, and pest management, while computer vision models enable pest and disease detection from uploaded images. Natural Language Processing (NLP) will support multilingual chat and voice-first interaction, making the platform usable by low-literate farmers through speech-to-text and text-to-speech technologies. The app will also work in offline and low-bandwidth environments with SMS and IVR support for farmers without smartphones. Continuous feedback from users will help refine AI models and advisory content, while secure cloud infrastructure, data encryption, and role-based access will ensure privacy and data protection for all stakeholders.
+</p>
 <ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
 </li>
 <li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>

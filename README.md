@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="flowchart1" src="https://github.com/user-attachments/assets/60fce141-287f-4fc3-b0a8-56c92d9d7b4f" /># Smart India Hackathon Workshop
+# Smart India Hackathon Workshop
 # Date:22/09/2025
 ## Register Number:25016025
 ## Name:RICKY DHARMESH.P
@@ -49,7 +49,7 @@ Agriculture, FoodTech & Rural Development
 <p>
   The proposed “Kisan Saathi” platform will be developed as a modular, scalable cloud-based system with both mobile and voice interfaces to ensure accessibility for all farmers. Real-time data on soil, weather, and market conditions will be collected from government databases, satellite feeds, IoT sensors, and farmer inputs, and integrated with agriculture APIs for accurate crop and pest information. An AI and analytics engine will power the core functionalities, using machine learning to recommend crop selection, fertilizer usage, and pest management, while computer vision models enable pest and disease detection from uploaded images. Natural Language Processing (NLP) will support multilingual chat and voice-first interaction, making the platform usable by low-literate farmers through speech-to-text and text-to-speech technologies. The app will also work in offline and low-bandwidth environments with SMS and IVR support for farmers without smartphones. Continuous feedback from users will help refine AI models and advisory content, while secure cloud infrastructure, data encryption, and role-based access will ensure privacy and data protection for all stakeholders.
 </p> 
-
+<img width="1024" height="1024" alt="flowchart1" src="https://github.com/user-attachments/assets/60fce141-287f-4fc3-b0a8-56c92d9d7b4f" />
 
 
 

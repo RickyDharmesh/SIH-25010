@@ -51,8 +51,6 @@ Agriculture, FoodTech & Rural Development
 </p> 
 
 
-<img width="1344" height="768" alt="Gemini_Generated_Image_ktqamwktqamwktqa" src="https://github.com/user-attachments/assets/d1bfc8f2-d5cd-4cfe-be9d-0fe655103605" />
-
 
 
 ## Feasibility and Viability

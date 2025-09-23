@@ -55,10 +55,10 @@ Agriculture, FoodTech & Rural Development
 
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+<h3>Kisan Saathi – Smart Advisory Feasibility</h3>
+<p>
+  The feasibility of “Kisan Saathi” – A One-Stop Smart Advisory Ecosystem is strong due to increasing smartphone penetration, affordable data, and growing digital literacy in rural India, which enable farmers to access mobile apps, WhatsApp bots, or call-based advisory systems. Technically, the platform can leverage AI/ML for personalized crop advisory, IoT sensors for soil and weather monitoring, and satellite imagery for real-time alerts, while integrating with government databases such as soil health cards and weather services. Operationally, it can be rolled out in phases—beginning with mobile and voice-based support in regional languages and later expanding to IoT sensors or village kiosks—supported by partnerships with Krishi Vigyan Kendras (KVKs), NGOs, agri-input companies, and cooperatives. Financially, initial development can be backed by government schemes, CSR initiatives, or agri-tech investors, while sustainable revenue streams may come from premium subscriptions, agri-input commissions, B2B tie-ups, and data insights. The viability of “Kisan Saathi” lies in its ability to reduce farmers’ costs, improve productivity, and empower small and marginal farmers with actionable knowledge while bridging the digital divide. Socially, it enhances trust and accessibility through localized content, and economically it creates employment opportunities for rural youth. In the long term, the ecosystem is scalable across states and crops, can integrate future innovations like crop insurance and precision farming, and builds a large data repository to improve AI-based recommendations, ensuring self-sustainability and lasting impact.
+</p>
 
 ## Impact and Benefits
 <h3>Remove These Lines</h3>

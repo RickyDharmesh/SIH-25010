@@ -50,7 +50,8 @@ Agriculture, FoodTech & Rural Development
   The proposed “Kisan Saathi” platform will be developed as a modular, scalable cloud-based system with both mobile and voice interfaces to ensure accessibility for all farmers. Real-time data on soil, weather, and market conditions will be collected from government databases, satellite feeds, IoT sensors, and farmer inputs, and integrated with agriculture APIs for accurate crop and pest information. An AI and analytics engine will power the core functionalities, using machine learning to recommend crop selection, fertilizer usage, and pest management, while computer vision models enable pest and disease detection from uploaded images. Natural Language Processing (NLP) will support multilingual chat and voice-first interaction, making the platform usable by low-literate farmers through speech-to-text and text-to-speech technologies. The app will also work in offline and low-bandwidth environments with SMS and IVR support for farmers without smartphones. Continuous feedback from users will help refine AI models and advisory content, while secure cloud infrastructure, data encryption, and role-based access will ensure privacy and data protection for all stakeholders.
 </p> 
 
-![Uploading Gemini_Generated_Image_ktqamwktqamwktqa.png…]()
+
+<img width="1344" height="768" alt="Gemini_Generated_Image_ktqamwktqamwktqa" src="https://github.com/user-attachments/assets/d1bfc8f2-d5cd-4cfe-be9d-0fe655103605" />
 
 
 

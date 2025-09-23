@@ -51,6 +51,7 @@ Agriculture, FoodTech & Rural Development
 </p> 
 
 
+<img width="1919" height="1079" alt="FLOWCHART" src="https://github.com/user-attachments/assets/ca38c823-c35e-4f14-b5d2-ae6ed367db16" />
 
 
 ## Feasibility and Viability
